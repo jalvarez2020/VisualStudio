@@ -218,7 +218,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.SDK" Version="15.9.3" ExcludeAssets="runtime" />
+    <PackageReference Include="Microsoft.VisualStudio.SDK" Version="16.0.204" ExcludeAssets="runtime" />
     <PackageReference Include="Microsoft.VisualStudio.Shell.Framework">
       <Version>15.9.28307</Version>
     </PackageReference>
